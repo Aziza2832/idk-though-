@@ -4,6 +4,7 @@
     <body>
         <head>
             <title> Hello :> </title>
+        </head>
         <main>
             <table>
                 <tr>
