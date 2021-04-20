@@ -2,6 +2,8 @@
 
 <html>
     <body>
+        <head>
+            <title> Hello :> </title>
         <main>
             <table>
                 <tr>
